@@ -1,4 +1,4 @@
-### JavaScript Calculator
+## JavaScript Calculator
 We choose to implement a scientific calculator that is pretty similar to the one in microsoft in this project.
 
 ### Core Functionalities
